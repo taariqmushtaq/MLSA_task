@@ -58,7 +58,7 @@ public:
     {
         if (front == NULL || rear == NULL)
         {
-            cout << "Queue is empty" << endl;
+            cout << "Queue is empty Mr Tariq," << endl;
         }
         else
         {
